@@ -5,7 +5,8 @@ Github Repository: https:github.com/sandraul/MichaelSchool
 
 Live Repository: 
 
-10/28/2018 <br>
-Initial scafolding created <br>
-index.html, style.css, app.js <br>
-.gitignore created <br>
+
+#### 10/28
+- Initial scafolding created
+- index.html, style.css, app.js
+- .gitignore created
