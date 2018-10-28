@@ -6,6 +6,6 @@ Github Repository: https:github.com/sandraul/MichaelSchool
 Live Repository: 
 
 10/28/2018 <br>
-Initial scafolding created 
-index.html, style.css, app.js
-.gitignore created
+Initial scafolding created <br>
+index.html, style.css, app.js <br>
+.gitignore created <br>
