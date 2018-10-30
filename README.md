@@ -10,3 +10,7 @@ Live Repository:
 - Initial scafolding created
 - index.html, style.css, app.js
 - .gitignore created
+
+#### 10/29
+- Added school logo and menu navigation
+- Basic styling and google font added
