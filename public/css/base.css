@@ -1,1 +1,14 @@
 @import 'reset.css';
+@import 'layout.css';
+
+
+body {
+    background-color: rgb(169, 206, 158)48, 237, 237);
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+header {
+    margin: 5%;
+}
